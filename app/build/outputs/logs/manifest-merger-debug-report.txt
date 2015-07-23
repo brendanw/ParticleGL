@@ -33,7 +33,7 @@ ADDED from AndroidManifest.xml:11:5
 		ADDED from AndroidManifest.xml:13:9
 	android:theme
 		ADDED from AndroidManifest.xml:15:9
-activity#main.java.com.particlegl.HomeActivity
+activity#main.java.me.brendanweinstein.particlegl.HomeActivity
 ADDED from AndroidManifest.xml:16:9
 	android:label
 		ADDED from AndroidManifest.xml:18:13
